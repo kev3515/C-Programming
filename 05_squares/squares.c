@@ -8,7 +8,7 @@
  */
 int isInRange(int coord, int offset, int size) {
   // if coord is in range, return 1
-  if ((coord >= offset) && (coord < offset + size))
+  if ((coord > offset) && (coord < offset + size))
   {
     return 1;
   }
@@ -43,7 +43,7 @@ int isMax(int a, int b)
 
 int isSmall(int a, int b)
 {
-  if (a <= b)
+  if (a < b)
     {
       return 1;
     }
