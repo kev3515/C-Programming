@@ -8,12 +8,14 @@
  */
 int isInRange(int coord, int offset, int size) {
   // if coord is in range, return 1
-  if ((coord >= offset) && (coord <= offset + size))
+  if ((coord >= offset) && (coord < offset + size))
   {
     return 1;
   }
   // else, return 0
-  return 0;
+  else{
+    return 0;
+  }
 }
 
 /*
@@ -26,8 +28,10 @@ int isAtBorder(int coord, int offset, int size) {
     {
       return 1;
     }
+  else{
   // return 1, else return 0
   return 0;
+  }
 }
 
 int isMax(int a, int b)
@@ -36,8 +40,9 @@ int isMax(int a, int b)
     {
       return a;
     }
-
-  return b;
+  else{
+    return b;
+  }
 
 }
 
@@ -53,14 +58,14 @@ int isSmall(int a, int b)
 
 void squares(int size1, int x_offset, int y_offset, int size2) {
   //compute the max of size1 and (x_offset + size2).  Call this w
-  int w = isMax(size1,(x_offset + size2));
+  int w = isMax(size1,x_offset + size2);
   //compute the max of size1 and (y_offset + size2).  Call this h
-  int h = isMax(size1,(y_offset + size2));
+  int h = isMax(size1,y_offset + size2);
   //count from 0 to h. Call the number you count with y
-  for(int y = 0; y <= h; y = y + 1 )
+  for(int y = 0; y < h; y++)
     {
     //count from 0 to w. Call the number you count with x
-      for(int x = 0; x <= w; x = x + 1)
+      for(int x = 0; x <= w; x++)
 
 	{
       //check if  EITHER
