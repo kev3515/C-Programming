@@ -50,7 +50,7 @@ rectangle intersection(rectangle r1, rectangle r2) {
   r1 = canonicalize(r1);
   r2 = canonicalize(r2);
   
-  if (min(r1.x + r1.width,r2.x + r2.width) >= max(r1.x, r2.x))
+  if (min(r1.x + r1.width,r2.x + r2.width) > max(r1.x, r2.x))
     {
       r1.x = max(r1.x,r2.x);
       r1.width = min(r1.x + r1.width,r2.x + r2.width) - max(r1.x, r2.x);
@@ -61,7 +61,7 @@ rectangle intersection(rectangle r1, rectangle r2) {
       r1.width = 0;
     }
 
-  if(min(r1.y + r1.height,r2.y + r2.height) >= max(r1.y,r2.y))
+  if(min(r1.y + r1.height,r2.y + r2.height) > max(r1.y,r2.y))
     {
       r1.y = max(r1.y,r2.y);
       r1.height = min(r1.y + r1.height,r2.y + r2.height) - max(r1.y,r2.y);
