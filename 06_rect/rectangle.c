@@ -8,6 +8,7 @@ int min (int a, int b) {
   }
   return b;
 }
+
 int max (int a, int b) {
   if (a > b) {
     return a;
@@ -16,14 +17,57 @@ int max (int a, int b) {
 }
 
 //Declare your rectangle structure here!
-
+typedef struct{
+  int x;
+  int y;
+  int width;
+  int height;
+}rectangle;
 
 rectangle canonicalize(rectangle r) {
   //WRITE THIS FUNCTION
+  if(r.width < 0)
+    {
+      r.x = r.x + r.width;
+      r.width = (-1) * r.width;
+    }
+
+  if(r.height < 0)
+    {
+      r.y = r.y + r.height;
+      r.height = (-1) * r.height;
+    }
+
   return r;
 }
+
+
+
 rectangle intersection(rectangle r1, rectangle r2) {
   //WRITE THIS FUNCTION
+
+  if (min(r1.x + r1.width,r2.x + r2.width) >= max(r1.x, r2.x))
+    {
+      r1.x = max(r1.x,r2.x);
+      r1.width = min(r1.x + r1.width,r2.x + r2.width) - max(r1.x, r2.x);
+    }
+  else
+    {
+      r1.x = 0;
+      r1.width = 0;
+    }
+
+  if(min(r1.y + r1.height,r2.y + r2.height) >= max(r1.y,r2.y))
+    {
+      r1.y = max(r1.y,r2.y);
+      r1.height = min(r1.y + r1.height,r2.y + r2.height) - max(r1.y,r2.y);
+    }
+  else
+    {
+      r1.y = 0;
+      r1.height = 0;
+    }
+  
   return r1;
 }
 
