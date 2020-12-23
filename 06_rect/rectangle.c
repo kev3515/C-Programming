@@ -44,8 +44,12 @@ rectangle canonicalize(rectangle r) {
 
 
 rectangle intersection(rectangle r1, rectangle r2) {
+
   //WRITE THIS FUNCTION
 
+  r1 = canonicalize(r1);
+  r2 = canonicalize(r2);
+  
   if (min(r1.x + r1.width,r2.x + r2.width) >= max(r1.x, r2.x))
     {
       r1.x = max(r1.x,r2.x);
