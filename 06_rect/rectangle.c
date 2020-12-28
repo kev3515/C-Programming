@@ -62,6 +62,8 @@ rectangle intersection(rectangle r1, rectangle r2) {
       r_ret.width = 0;
       r_ret.y = 0;
       r_ret.height = 0;
+
+      return r_ret;
     }
 
   if(min(r1.y + r1.height,r2.y + r2.height) > max(r1.y,r2.y))
@@ -75,6 +77,8 @@ rectangle intersection(rectangle r1, rectangle r2) {
       r_ret.width = 0;
       r_ret.x = 0;
       r_ret.y = 0;
+
+      return r_ret;
     }
   
   return r_ret;
