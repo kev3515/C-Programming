@@ -1,4 +1,4 @@
-Grading at Mon Dec 28 15:06:26 UTC 2020
+Grading at Mon Dec 28 15:06:47 UTC 2020
 Attempting to compile rectangle.c
 Tring to run rectangle
 Line_8_did_not_match
@@ -16,18 +16,18 @@ r4 is (-4,7) to (0,9)
 intersection(r1,r1): (2,3) to (7,9)
 intersection(r1,r2): (2,3) to (4,5)
 intersection(r1,r3): (2,3) to (5,7)
-intersection(r1,r4): (1156457952,7) to (1156457952,9)
+intersection(r1,r4): (1523560448,7) to (1523560448,9)
 intersection(r2,r1): (2,3) to (4,5)
 intersection(r2,r2): (-1,-2) to (4,5)
 intersection(r2,r3): (-1,-2) to (4,5)
-intersection(r2,r4): (-1,32765) to (0,32765)
+intersection(r2,r4): (-1,32766) to (0,32766)
 intersection(r3,r1): (2,3) to (5,7)
 intersection(r3,r2): (-1,-2) to (4,5)
 intersection(r3,r3): (-2,-3) to (5,7)
-intersection(r3,r4): (-2,32765) to (0,32765)
-intersection(r4,r1): (1156457952,7) to (1156457952,9)
-intersection(r4,r2): (-1,32765) to (0,32765)
-intersection(r4,r3): (-2,32765) to (0,32765)
+intersection(r3,r4): (-2,32766) to (0,32766)
+intersection(r4,r1): (1523560448,7) to (1523560448,9)
+intersection(r4,r2): (-1,32766) to (0,32766)
+intersection(r4,r3): (-2,32766) to (0,32766)
 intersection(r4,r4): (-4,7) to (0,9)
 
 Overall Grade: F
