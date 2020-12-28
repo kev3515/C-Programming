@@ -59,7 +59,6 @@ rectangle intersection(rectangle r1, rectangle r2) {
   else
     {
       r_ret.width = 0;
-      r_ret.height = 0;
       
     }
 
@@ -70,7 +69,6 @@ rectangle intersection(rectangle r1, rectangle r2) {
     }
   else
     {
-      r_ret.width = 0;
       r_ret.height = 0;
     }
   
