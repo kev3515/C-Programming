@@ -46,33 +46,34 @@ rectangle canonicalize(rectangle r) {
 rectangle intersection(rectangle r1, rectangle r2) {
 
   //WRITE THIS FUNCTION
-
+  rectangle r_int;
+  
   r1 = canonicalize(r1);
   r2 = canonicalize(r2);
   
   if (min(r1.x + r1.width,r2.x + r2.width) > max(r1.x, r2.x))
     {
-      r1.x = max(r1.x,r2.x);
-      r1.width = min(r1.x + r1.width,r2.x + r2.width) - max(r1.x, r2.x);
+      r_ret.x = max(r1.x,r2.x);
+      r_ret.width = min(r1.x + r1.width,r2.x + r2.width) - max(r1.x, r2.x);
     }
   else
     {
-      r1.x = 0;
-      r1.width = 0;
+      r_ret.x = 0;
+      r_ret.width = 0;
     }
 
   if(min(r1.y + r1.height,r2.y + r2.height) > max(r1.y,r2.y))
     {
-      r1.y = max(r1.y,r2.y);
-      r1.height = min(r1.y + r1.height,r2.y + r2.height) - max(r1.y,r2.y);
+      r_ret.y = max(r1.y,r2.y);
+      r_ret.height = min(r1.y + r1.height,r2.y + r2.height) - max(r1.y,r2.y);
     }
   else
     {
-      r1.y = 0;
-      r1.height = 0;
+      r_ret.y = 0;
+      r_ret.height = 0;
     }
   
-  return r1;
+  return r_ret;
 }
 
 //You should not need to modify any code below this line
