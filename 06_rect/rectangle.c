@@ -46,7 +46,7 @@ rectangle canonicalize(rectangle r) {
 rectangle intersection(rectangle r1, rectangle r2) {
 
   //WRITE THIS FUNCTION
-  rectangle r_int;
+  rectangle r_ret;
   
   r1 = canonicalize(r1);
   r2 = canonicalize(r2);
