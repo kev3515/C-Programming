@@ -49,12 +49,12 @@ void retirement (int startAge,   //in months
     {
       print_data(age_month,balance);
 
-      if(age_month <= startAge + working.months){
+      if(age_month < startAge + working.months){
 
 	balance = compute_capital(balance,working.rate_of_return,working.contribution);
       }
 
-      if(age_month > startAge + working.months && age_month <= startAge + working.months + retired.months){
+      if(age_month >= startAge + working.months && age_month <= startAge + working.months + retired.months){
 
 	balance = compute_capital(balance,retired.rate_of_return,retired.contribution);
       }
