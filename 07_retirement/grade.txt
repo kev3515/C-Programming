@@ -1,4 +1,4 @@
-Grading at Tue Dec 29 15:47:46 UTC 2020
+Grading at Tue Dec 29 15:52:28 UTC 2020
 Attempting to compile retirement.c
 Checking for struct _retire_info
 Found on line 4, column 1 
@@ -15,389 +15,6 @@ Found on line 37, column 1
 Checking for int main(void)
 Found on line 66, column 1 
 Trying to run retirement calculator..
-Line_491_did_not_match
-Line_492_did_not_match
-Line_493_did_not_match
-Line_494_did_not_match
-Line_495_did_not_match
-Line_496_did_not_match
-Line_497_did_not_match
-Line_498_did_not_match
-Line_499_did_not_match
-Line_500_did_not_match
-Line_501_did_not_match
-Line_502_did_not_match
-Line_503_did_not_match
-Line_504_did_not_match
-Line_505_did_not_match
-Line_506_did_not_match
-Line_507_did_not_match
-Line_508_did_not_match
-Line_509_did_not_match
-Line_510_did_not_match
-Line_511_did_not_match
-Line_512_did_not_match
-Line_513_did_not_match
-Line_514_did_not_match
-Line_515_did_not_match
-Line_516_did_not_match
-Line_517_did_not_match
-Line_518_did_not_match
-Line_519_did_not_match
-Line_520_did_not_match
-Line_521_did_not_match
-Line_522_did_not_match
-Line_523_did_not_match
-Line_524_did_not_match
-Line_525_did_not_match
-Line_526_did_not_match
-Line_527_did_not_match
-Line_528_did_not_match
-Line_529_did_not_match
-Line_530_did_not_match
-Line_531_did_not_match
-Line_532_did_not_match
-Line_533_did_not_match
-Line_534_did_not_match
-Line_535_did_not_match
-Line_536_did_not_match
-Line_537_did_not_match
-Line_538_did_not_match
-Line_539_did_not_match
-Line_540_did_not_match
-Line_541_did_not_match
-Line_542_did_not_match
-Line_543_did_not_match
-Line_544_did_not_match
-Line_545_did_not_match
-Line_546_did_not_match
-Line_547_did_not_match
-Line_548_did_not_match
-Line_549_did_not_match
-Line_550_did_not_match
-Line_551_did_not_match
-Line_552_did_not_match
-Line_553_did_not_match
-Line_554_did_not_match
-Line_555_did_not_match
-Line_556_did_not_match
-Line_557_did_not_match
-Line_558_did_not_match
-Line_559_did_not_match
-Line_560_did_not_match
-Line_561_did_not_match
-Line_562_did_not_match
-Line_563_did_not_match
-Line_564_did_not_match
-Line_565_did_not_match
-Line_566_did_not_match
-Line_567_did_not_match
-Line_568_did_not_match
-Line_569_did_not_match
-Line_570_did_not_match
-Line_571_did_not_match
-Line_572_did_not_match
-Line_573_did_not_match
-Line_574_did_not_match
-Line_575_did_not_match
-Line_576_did_not_match
-Line_577_did_not_match
-Line_578_did_not_match
-Line_579_did_not_match
-Line_580_did_not_match
-Line_581_did_not_match
-Line_582_did_not_match
-Line_583_did_not_match
-Line_584_did_not_match
-Line_585_did_not_match
-Line_586_did_not_match
-Line_587_did_not_match
-Line_588_did_not_match
-Line_589_did_not_match
-Line_590_did_not_match
-Line_591_did_not_match
-Line_592_did_not_match
-Line_593_did_not_match
-Line_594_did_not_match
-Line_595_did_not_match
-Line_596_did_not_match
-Line_597_did_not_match
-Line_598_did_not_match
-Line_599_did_not_match
-Line_600_did_not_match
-Line_601_did_not_match
-Line_602_did_not_match
-Line_603_did_not_match
-Line_604_did_not_match
-Line_605_did_not_match
-Line_606_did_not_match
-Line_607_did_not_match
-Line_608_did_not_match
-Line_609_did_not_match
-Line_610_did_not_match
-Line_611_did_not_match
-Line_612_did_not_match
-Line_613_did_not_match
-Line_614_did_not_match
-Line_615_did_not_match
-Line_616_did_not_match
-Line_617_did_not_match
-Line_618_did_not_match
-Line_619_did_not_match
-Line_620_did_not_match
-Line_621_did_not_match
-Line_622_did_not_match
-Line_623_did_not_match
-Line_624_did_not_match
-Line_625_did_not_match
-Line_626_did_not_match
-Line_627_did_not_match
-Line_628_did_not_match
-Line_629_did_not_match
-Line_630_did_not_match
-Line_631_did_not_match
-Line_632_did_not_match
-Line_633_did_not_match
-Line_634_did_not_match
-Line_635_did_not_match
-Line_636_did_not_match
-Line_637_did_not_match
-Line_638_did_not_match
-Line_639_did_not_match
-Line_640_did_not_match
-Line_641_did_not_match
-Line_642_did_not_match
-Line_643_did_not_match
-Line_644_did_not_match
-Line_645_did_not_match
-Line_646_did_not_match
-Line_647_did_not_match
-Line_648_did_not_match
-Line_649_did_not_match
-Line_650_did_not_match
-Line_651_did_not_match
-Line_652_did_not_match
-Line_653_did_not_match
-Line_654_did_not_match
-Line_655_did_not_match
-Line_656_did_not_match
-Line_657_did_not_match
-Line_658_did_not_match
-Line_659_did_not_match
-Line_660_did_not_match
-Line_661_did_not_match
-Line_662_did_not_match
-Line_663_did_not_match
-Line_664_did_not_match
-Line_665_did_not_match
-Line_666_did_not_match
-Line_667_did_not_match
-Line_668_did_not_match
-Line_669_did_not_match
-Line_670_did_not_match
-Line_671_did_not_match
-Line_672_did_not_match
-Line_673_did_not_match
-Line_674_did_not_match
-Line_675_did_not_match
-Line_676_did_not_match
-Line_677_did_not_match
-Line_678_did_not_match
-Line_679_did_not_match
-Line_680_did_not_match
-Line_681_did_not_match
-Line_682_did_not_match
-Line_683_did_not_match
-Line_684_did_not_match
-Line_685_did_not_match
-Line_686_did_not_match
-Line_687_did_not_match
-Line_688_did_not_match
-Line_689_did_not_match
-Line_690_did_not_match
-Line_691_did_not_match
-Line_692_did_not_match
-Line_693_did_not_match
-Line_694_did_not_match
-Line_695_did_not_match
-Line_696_did_not_match
-Line_697_did_not_match
-Line_698_did_not_match
-Line_699_did_not_match
-Line_700_did_not_match
-Line_701_did_not_match
-Line_702_did_not_match
-Line_703_did_not_match
-Line_704_did_not_match
-Line_705_did_not_match
-Line_706_did_not_match
-Line_707_did_not_match
-Line_708_did_not_match
-Line_709_did_not_match
-Line_710_did_not_match
-Line_711_did_not_match
-Line_712_did_not_match
-Line_713_did_not_match
-Line_714_did_not_match
-Line_715_did_not_match
-Line_716_did_not_match
-Line_717_did_not_match
-Line_718_did_not_match
-Line_719_did_not_match
-Line_720_did_not_match
-Line_721_did_not_match
-Line_722_did_not_match
-Line_723_did_not_match
-Line_724_did_not_match
-Line_725_did_not_match
-Line_726_did_not_match
-Line_727_did_not_match
-Line_728_did_not_match
-Line_729_did_not_match
-Line_730_did_not_match
-Line_731_did_not_match
-Line_732_did_not_match
-Line_733_did_not_match
-Line_734_did_not_match
-Line_735_did_not_match
-Line_736_did_not_match
-Line_737_did_not_match
-Line_738_did_not_match
-Line_739_did_not_match
-Line_740_did_not_match
-Line_741_did_not_match
-Line_742_did_not_match
-Line_743_did_not_match
-Line_744_did_not_match
-Line_745_did_not_match
-Line_746_did_not_match
-Line_747_did_not_match
-Line_748_did_not_match
-Line_749_did_not_match
-Line_750_did_not_match
-Line_751_did_not_match
-Line_752_did_not_match
-Line_753_did_not_match
-Line_754_did_not_match
-Line_755_did_not_match
-Line_756_did_not_match
-Line_757_did_not_match
-Line_758_did_not_match
-Line_759_did_not_match
-Line_760_did_not_match
-Line_761_did_not_match
-Line_762_did_not_match
-Line_763_did_not_match
-Line_764_did_not_match
-Line_765_did_not_match
-Line_766_did_not_match
-Line_767_did_not_match
-Line_768_did_not_match
-Line_769_did_not_match
-Line_770_did_not_match
-Line_771_did_not_match
-Line_772_did_not_match
-Line_773_did_not_match
-Line_774_did_not_match
-Line_775_did_not_match
-Line_776_did_not_match
-Line_777_did_not_match
-Line_778_did_not_match
-Line_779_did_not_match
-Line_780_did_not_match
-Line_781_did_not_match
-Line_782_did_not_match
-Line_783_did_not_match
-Line_784_did_not_match
-Line_785_did_not_match
-Line_786_did_not_match
-Line_787_did_not_match
-Line_788_did_not_match
-Line_789_did_not_match
-Line_790_did_not_match
-Line_791_did_not_match
-Line_792_did_not_match
-Line_793_did_not_match
-Line_794_did_not_match
-Line_795_did_not_match
-Line_796_did_not_match
-Line_797_did_not_match
-Line_798_did_not_match
-Line_799_did_not_match
-Line_800_did_not_match
-Line_801_did_not_match
-Line_802_did_not_match
-Line_803_did_not_match
-Line_804_did_not_match
-Line_805_did_not_match
-Line_806_did_not_match
-Line_807_did_not_match
-Line_808_did_not_match
-Line_809_did_not_match
-Line_810_did_not_match
-Line_811_did_not_match
-Line_812_did_not_match
-Line_813_did_not_match
-Line_814_did_not_match
-Line_815_did_not_match
-Line_816_did_not_match
-Line_817_did_not_match
-Line_818_did_not_match
-Line_819_did_not_match
-Line_820_did_not_match
-Line_821_did_not_match
-Line_822_did_not_match
-Line_823_did_not_match
-Line_824_did_not_match
-Line_825_did_not_match
-Line_826_did_not_match
-Line_827_did_not_match
-Line_828_did_not_match
-Line_829_did_not_match
-Line_830_did_not_match
-Line_831_did_not_match
-Line_832_did_not_match
-Line_833_did_not_match
-Line_834_did_not_match
-Line_835_did_not_match
-Line_836_did_not_match
-Line_837_did_not_match
-Line_838_did_not_match
-Line_839_did_not_match
-Line_840_did_not_match
-Line_841_did_not_match
-Line_842_did_not_match
-Line_843_did_not_match
-Line_844_did_not_match
-Line_845_did_not_match
-Line_846_did_not_match
-Line_847_did_not_match
-Line_848_did_not_match
-Line_849_did_not_match
-Line_850_did_not_match
-Line_851_did_not_match
-Line_852_did_not_match
-Line_853_did_not_match
-Line_854_did_not_match
-Line_855_did_not_match
-Line_856_did_not_match
-Line_857_did_not_match
-Line_858_did_not_match
-Line_859_did_not_match
-Line_860_did_not_match
-Line_861_did_not_match
-Line_862_did_not_match
-Line_863_did_not_match
-Line_864_did_not_match
-Line_865_did_not_match
-Line_866_did_not_match
-Line_867_did_not_match
-Line_868_did_not_match
-Line_869_did_not_match
-Line_870_did_not_match
-Line_871_did_not_match
-Line_872_did_not_match
-Line_873_did_not_match
 Line_874_did_not_match
 Your file did not match the expected ouput
 Your output did not match what we expected. Here is what you printed
@@ -891,389 +508,389 @@ Age  67 month  9 you have $1509286.09
 Age  67 month 10 you have $1515945.91
 Age  67 month 11 you have $1522630.71
 Age  68 month  0 you have $1529340.57
-Age  68 month  1 you have $1536075.60
-Age  68 month  2 you have $1533355.66
-Age  68 month  3 you have $1530633.46
-Age  68 month  4 you have $1527908.99
-Age  68 month  5 you have $1525182.24
-Age  68 month  6 you have $1522453.23
-Age  68 month  7 you have $1519721.94
-Age  68 month  8 you have $1516988.37
-Age  68 month  9 you have $1514252.53
-Age  68 month 10 you have $1511514.41
-Age  68 month 11 you have $1508774.00
-Age  69 month  0 you have $1506031.32
-Age  69 month  1 you have $1503286.34
-Age  69 month  2 you have $1500539.08
-Age  69 month  3 you have $1497789.53
-Age  69 month  4 you have $1495037.69
-Age  69 month  5 you have $1492283.55
-Age  69 month  6 you have $1489527.12
-Age  69 month  7 you have $1486768.39
-Age  69 month  8 you have $1484007.37
-Age  69 month  9 you have $1481244.04
-Age  69 month 10 you have $1478478.41
-Age  69 month 11 you have $1475710.48
-Age  70 month  0 you have $1472940.23
-Age  70 month  1 you have $1470167.69
-Age  70 month  2 you have $1467392.82
-Age  70 month  3 you have $1464615.65
-Age  70 month  4 you have $1461836.17
-Age  70 month  5 you have $1459054.36
-Age  70 month  6 you have $1456270.24
-Age  70 month  7 you have $1453483.80
-Age  70 month  8 you have $1450695.04
-Age  70 month  9 you have $1447903.95
-Age  70 month 10 you have $1445110.53
-Age  70 month 11 you have $1442314.79
-Age  71 month  0 you have $1439516.72
-Age  71 month  1 you have $1436716.32
-Age  71 month  2 you have $1433913.58
-Age  71 month  3 you have $1431108.51
-Age  71 month  4 you have $1428301.10
-Age  71 month  5 you have $1425491.35
-Age  71 month  6 you have $1422679.26
-Age  71 month  7 you have $1419864.83
-Age  71 month  8 you have $1417048.05
-Age  71 month  9 you have $1414228.92
-Age  71 month 10 you have $1411407.45
-Age  71 month 11 you have $1408583.62
-Age  72 month  0 you have $1405757.44
-Age  72 month  1 you have $1402928.90
-Age  72 month  2 you have $1400098.01
-Age  72 month  3 you have $1397264.76
-Age  72 month  4 you have $1394429.15
-Age  72 month  5 you have $1391591.17
-Age  72 month  6 you have $1388750.83
-Age  72 month  7 you have $1385908.12
-Age  72 month  8 you have $1383063.05
-Age  72 month  9 you have $1380215.60
-Age  72 month 10 you have $1377365.78
-Age  72 month 11 you have $1374513.58
-Age  73 month  0 you have $1371659.01
-Age  73 month  1 you have $1368802.06
-Age  73 month  2 you have $1365942.73
-Age  73 month  3 you have $1363081.01
-Age  73 month  4 you have $1360216.92
-Age  73 month  5 you have $1357350.43
-Age  73 month  6 you have $1354481.55
-Age  73 month  7 you have $1351610.29
-Age  73 month  8 you have $1348736.63
-Age  73 month  9 you have $1345860.58
-Age  73 month 10 you have $1342982.13
-Age  73 month 11 you have $1340101.28
-Age  74 month  0 you have $1337218.03
-Age  74 month  1 you have $1334332.38
-Age  74 month  2 you have $1331444.32
-Age  74 month  3 you have $1328553.86
-Age  74 month  4 you have $1325660.99
-Age  74 month  5 you have $1322765.71
-Age  74 month  6 you have $1319868.01
-Age  74 month  7 you have $1316967.90
-Age  74 month  8 you have $1314065.37
-Age  74 month  9 you have $1311160.43
-Age  74 month 10 you have $1308253.06
-Age  74 month 11 you have $1305343.27
-Age  75 month  0 you have $1302431.06
-Age  75 month  1 you have $1299516.42
-Age  75 month  2 you have $1296599.35
-Age  75 month  3 you have $1293679.85
-Age  75 month  4 you have $1290757.91
-Age  75 month  5 you have $1287833.55
-Age  75 month  6 you have $1284906.74
-Age  75 month  7 you have $1281977.50
-Age  75 month  8 you have $1279045.81
-Age  75 month  9 you have $1276111.68
-Age  75 month 10 you have $1273175.11
-Age  75 month 11 you have $1270236.09
-Age  76 month  0 you have $1267294.62
-Age  76 month  1 you have $1264350.70
-Age  76 month  2 you have $1261404.32
-Age  76 month  3 you have $1258455.49
-Age  76 month  4 you have $1255504.21
-Age  76 month  5 you have $1252550.46
-Age  76 month  6 you have $1249594.25
-Age  76 month  7 you have $1246635.58
-Age  76 month  8 you have $1243674.44
-Age  76 month  9 you have $1240710.84
-Age  76 month 10 you have $1237744.76
-Age  76 month 11 you have $1234776.22
-Age  77 month  0 you have $1231805.20
-Age  77 month  1 you have $1228831.70
-Age  77 month  2 you have $1225855.73
-Age  77 month  3 you have $1222877.28
-Age  77 month  4 you have $1219896.34
-Age  77 month  5 you have $1216912.92
-Age  77 month  6 you have $1213927.01
-Age  77 month  7 you have $1210938.62
-Age  77 month  8 you have $1207947.74
-Age  77 month  9 you have $1204954.36
-Age  77 month 10 you have $1201958.49
-Age  77 month 11 you have $1198960.12
-Age  78 month  0 you have $1195959.25
-Age  78 month  1 you have $1192955.89
-Age  78 month  2 you have $1189950.02
-Age  78 month  3 you have $1186941.64
-Age  78 month  4 you have $1183930.76
-Age  78 month  5 you have $1180917.37
-Age  78 month  6 you have $1177901.47
-Age  78 month  7 you have $1174883.05
-Age  78 month  8 you have $1171862.12
-Age  78 month  9 you have $1168838.67
-Age  78 month 10 you have $1165812.70
-Age  78 month 11 you have $1162784.21
-Age  79 month  0 you have $1159753.20
-Age  79 month  1 you have $1156719.66
-Age  79 month  2 you have $1153683.59
-Age  79 month  3 you have $1150645.00
-Age  79 month  4 you have $1147603.87
-Age  79 month  5 you have $1144560.21
-Age  79 month  6 you have $1141514.01
-Age  79 month  7 you have $1138465.27
-Age  79 month  8 you have $1135413.99
-Age  79 month  9 you have $1132360.17
-Age  79 month 10 you have $1129303.80
-Age  79 month 11 you have $1126244.89
-Age  80 month  0 you have $1123183.42
-Age  80 month  1 you have $1120119.41
-Age  80 month  2 you have $1117052.84
-Age  80 month  3 you have $1113983.72
-Age  80 month  4 you have $1110912.04
-Age  80 month  5 you have $1107837.80
-Age  80 month  6 you have $1104761.00
-Age  80 month  7 you have $1101681.63
-Age  80 month  8 you have $1098599.70
-Age  80 month  9 you have $1095515.20
-Age  80 month 10 you have $1092428.13
-Age  80 month 11 you have $1089338.49
-Age  81 month  0 you have $1086246.27
-Age  81 month  1 you have $1083151.47
-Age  81 month  2 you have $1080054.10
-Age  81 month  3 you have $1076954.14
-Age  81 month  4 you have $1073851.61
-Age  81 month  5 you have $1070746.48
-Age  81 month  6 you have $1067638.77
-Age  81 month  7 you have $1064528.47
-Age  81 month  8 you have $1061415.58
-Age  81 month  9 you have $1058300.09
-Age  81 month 10 you have $1055182.01
-Age  81 month 11 you have $1052061.33
-Age  82 month  0 you have $1048938.04
-Age  82 month  1 you have $1045812.16
-Age  82 month  2 you have $1042683.67
-Age  82 month  3 you have $1039552.57
-Age  82 month  4 you have $1036418.87
-Age  82 month  5 you have $1033282.55
-Age  82 month  6 you have $1030143.62
-Age  82 month  7 you have $1027002.07
-Age  82 month  8 you have $1023857.90
-Age  82 month  9 you have $1020711.12
-Age  82 month 10 you have $1017561.71
-Age  82 month 11 you have $1014409.68
-Age  83 month  0 you have $1011255.02
-Age  83 month  1 you have $1008097.73
-Age  83 month  2 you have $1004937.82
-Age  83 month  3 you have $1001775.26
-Age  83 month  4 you have $998610.08
-Age  83 month  5 you have $995442.25
-Age  83 month  6 you have $992271.79
-Age  83 month  7 you have $989098.68
-Age  83 month  8 you have $985922.93
-Age  83 month  9 you have $982744.53
-Age  83 month 10 you have $979563.49
-Age  83 month 11 you have $976379.79
-Age  84 month  0 you have $973193.44
-Age  84 month  1 you have $970004.43
-Age  84 month  2 you have $966812.77
-Age  84 month  3 you have $963618.45
-Age  84 month  4 you have $960421.46
-Age  84 month  5 you have $957221.81
-Age  84 month  6 you have $954019.50
-Age  84 month  7 you have $950814.51
-Age  84 month  8 you have $947606.86
-Age  84 month  9 you have $944396.53
-Age  84 month 10 you have $941183.53
-Age  84 month 11 you have $937967.85
-Age  85 month  0 you have $934749.49
-Age  85 month  1 you have $931528.45
-Age  85 month  2 you have $928304.72
-Age  85 month  3 you have $925078.31
-Age  85 month  4 you have $921849.21
-Age  85 month  5 you have $918617.41
-Age  85 month  6 you have $915382.93
-Age  85 month  7 you have $912145.75
-Age  85 month  8 you have $908905.87
-Age  85 month  9 you have $905663.29
-Age  85 month 10 you have $902418.01
-Age  85 month 11 you have $899170.03
-Age  86 month  0 you have $895919.33
-Age  86 month  1 you have $892665.93
-Age  86 month  2 you have $889409.82
-Age  86 month  3 you have $886151.00
-Age  86 month  4 you have $882889.46
-Age  86 month  5 you have $879625.20
-Age  86 month  6 you have $876358.22
-Age  86 month  7 you have $873088.52
-Age  86 month  8 you have $869816.09
-Age  86 month  9 you have $866540.94
-Age  86 month 10 you have $863263.05
-Age  86 month 11 you have $859982.44
-Age  87 month  0 you have $856699.09
-Age  87 month  1 you have $853413.01
-Age  87 month  2 you have $850124.19
-Age  87 month  3 you have $846832.62
-Age  87 month  4 you have $843538.32
-Age  87 month  5 you have $840241.26
-Age  87 month  6 you have $836941.47
-Age  87 month  7 you have $833638.92
-Age  87 month  8 you have $830333.62
-Age  87 month  9 you have $827025.56
-Age  87 month 10 you have $823714.75
-Age  87 month 11 you have $820401.18
-Age  88 month  0 you have $817084.85
-Age  88 month  1 you have $813765.75
-Age  88 month  2 you have $810443.89
-Age  88 month  3 you have $807119.26
-Age  88 month  4 you have $803791.86
-Age  88 month  5 you have $800461.68
-Age  88 month  6 you have $797128.73
-Age  88 month  7 you have $793793.01
-Age  88 month  8 you have $790454.50
-Age  88 month  9 you have $787113.21
-Age  88 month 10 you have $783769.14
-Age  88 month 11 you have $780422.28
-Age  89 month  0 you have $777072.64
-Age  89 month  1 you have $773720.20
-Age  89 month  2 you have $770364.96
-Age  89 month  3 you have $767006.93
-Age  89 month  4 you have $763646.11
-Age  89 month  5 you have $760282.48
-Age  89 month  6 you have $756916.05
-Age  89 month  7 you have $753546.81
-Age  89 month  8 you have $750174.77
-Age  89 month  9 you have $746799.91
-Age  89 month 10 you have $743422.24
-Age  89 month 11 you have $740041.76
-Age  90 month  0 you have $736658.46
-Age  90 month  1 you have $733272.35
-Age  90 month  2 you have $729883.41
-Age  90 month  3 you have $726491.64
-Age  90 month  4 you have $723097.05
-Age  90 month  5 you have $719699.63
-Age  90 month  6 you have $716299.38
-Age  90 month  7 you have $712896.30
-Age  90 month  8 you have $709490.38
-Age  90 month  9 you have $706081.62
-Age  90 month 10 you have $702670.02
-Age  90 month 11 you have $699255.58
-Age  91 month  0 you have $695838.29
-Age  91 month  1 you have $692418.16
-Age  91 month  2 you have $688995.17
-Age  91 month  3 you have $685569.34
-Age  91 month  4 you have $682140.64
-Age  91 month  5 you have $678709.10
-Age  91 month  6 you have $675274.69
-Age  91 month  7 you have $671837.42
-Age  91 month  8 you have $668397.28
-Age  91 month  9 you have $664954.28
-Age  91 month 10 you have $661508.41
-Age  91 month 11 you have $658059.66
-Age  92 month  0 you have $654608.05
-Age  92 month  1 you have $651153.55
-Age  92 month  2 you have $647696.18
-Age  92 month  3 you have $644235.93
-Age  92 month  4 you have $640772.79
-Age  92 month  5 you have $637306.77
-Age  92 month  6 you have $633837.86
-Age  92 month  7 you have $630366.06
-Age  92 month  8 you have $626891.36
-Age  92 month  9 you have $623413.77
-Age  92 month 10 you have $619933.28
-Age  92 month 11 you have $616449.89
-Age  93 month  0 you have $612963.60
-Age  93 month  1 you have $609474.40
-Age  93 month  2 you have $605982.30
-Age  93 month  3 you have $602487.28
-Age  93 month  4 you have $598989.36
-Age  93 month  5 you have $595488.51
-Age  93 month  6 you have $591984.76
-Age  93 month  7 you have $588478.08
-Age  93 month  8 you have $584968.47
-Age  93 month  9 you have $581455.95
-Age  93 month 10 you have $577940.49
-Age  93 month 11 you have $574422.11
-Age  94 month  0 you have $570900.80
-Age  94 month  1 you have $567376.55
-Age  94 month  2 you have $563849.36
-Age  94 month  3 you have $560319.24
-Age  94 month  4 you have $556786.17
-Age  94 month  5 you have $553250.16
-Age  94 month  6 you have $549711.20
-Age  94 month  7 you have $546169.29
-Age  94 month  8 you have $542624.43
-Age  94 month  9 you have $539076.62
-Age  94 month 10 you have $535525.85
-Age  94 month 11 you have $531972.12
-Age  95 month  0 you have $528415.43
-Age  95 month  1 you have $524855.78
-Age  95 month  2 you have $521293.16
-Age  95 month  3 you have $517727.57
-Age  95 month  4 you have $514159.01
-Age  95 month  5 you have $510587.47
-Age  95 month  6 you have $507012.96
-Age  95 month  7 you have $503435.47
-Age  95 month  8 you have $499855.00
-Age  95 month  9 you have $496271.55
-Age  95 month 10 you have $492685.11
-Age  95 month 11 you have $489095.68
-Age  96 month  0 you have $485503.26
-Age  96 month  1 you have $481907.85
-Age  96 month  2 you have $478309.44
-Age  96 month  3 you have $474708.03
-Age  96 month  4 you have $471103.62
-Age  96 month  5 you have $467496.20
-Age  96 month  6 you have $463885.78
-Age  96 month  7 you have $460272.36
-Age  96 month  8 you have $456655.92
-Age  96 month  9 you have $453036.46
-Age  96 month 10 you have $449413.99
-Age  96 month 11 you have $445788.50
-Age  97 month  0 you have $442159.99
-Age  97 month  1 you have $438528.46
-Age  97 month  2 you have $434893.90
-Age  97 month  3 you have $431256.31
-Age  97 month  4 you have $427615.69
-Age  97 month  5 you have $423972.04
-Age  97 month  6 you have $420325.35
-Age  97 month  7 you have $416675.62
-Age  97 month  8 you have $413022.85
-Age  97 month  9 you have $409367.04
-Age  97 month 10 you have $405708.18
-Age  97 month 11 you have $402046.27
-Age  98 month  0 you have $398381.30
-Age  98 month  1 you have $394713.29
-Age  98 month  2 you have $391042.22
-Age  98 month  3 you have $387368.09
-Age  98 month  4 you have $383690.89
-Age  98 month  5 you have $380010.63
-Age  98 month  6 you have $376327.31
-Age  98 month  7 you have $372640.92
-Age  98 month  8 you have $368951.45
-Age  98 month  9 you have $365258.91
-Age  98 month 10 you have $361563.29
-Age  98 month 11 you have $357864.59
-Age  99 month  0 you have $354162.82
-Age  99 month  1 you have $350457.95
-Age  99 month  2 you have $346750.00
-Age  99 month  3 you have $343038.96
-Age  99 month  4 you have $339324.82
-Age  99 month  5 you have $335607.59
-Age  99 month  6 you have $331887.27
-Age  99 month  7 you have $328163.84
-Age  99 month  8 you have $324437.31
-Age  99 month  9 you have $320707.67
-Age  99 month 10 you have $316974.93
-Age  99 month 11 you have $313239.08
-Age 100 month  0 you have $309500.11
+Age  68 month  1 you have $1526615.02
+Age  68 month  2 you have $1523887.20
+Age  68 month  3 you have $1521157.11
+Age  68 month  4 you have $1518424.74
+Age  68 month  5 you have $1515690.09
+Age  68 month  6 you have $1512953.17
+Age  68 month  7 you have $1510213.96
+Age  68 month  8 you have $1507472.47
+Age  68 month  9 you have $1504728.70
+Age  68 month 10 you have $1501982.64
+Age  68 month 11 you have $1499234.29
+Age  69 month  0 you have $1496483.65
+Age  69 month  1 you have $1493730.72
+Age  69 month  2 you have $1490975.50
+Age  69 month  3 you have $1488217.98
+Age  69 month  4 you have $1485458.16
+Age  69 month  5 you have $1482696.04
+Age  69 month  6 you have $1479931.62
+Age  69 month  7 you have $1477164.90
+Age  69 month  8 you have $1474395.87
+Age  69 month  9 you have $1471624.53
+Age  69 month 10 you have $1468850.89
+Age  69 month 11 you have $1466074.93
+Age  70 month  0 you have $1463296.66
+Age  70 month  1 you have $1460516.07
+Age  70 month  2 you have $1457733.17
+Age  70 month  3 you have $1454947.95
+Age  70 month  4 you have $1452160.40
+Age  70 month  5 you have $1449370.54
+Age  70 month  6 you have $1446578.35
+Age  70 month  7 you have $1443783.83
+Age  70 month  8 you have $1440986.98
+Age  70 month  9 you have $1438187.80
+Age  70 month 10 you have $1435386.29
+Age  70 month 11 you have $1432582.45
+Age  71 month  0 you have $1429776.27
+Age  71 month  1 you have $1426967.75
+Age  71 month  2 you have $1424156.89
+Age  71 month  3 you have $1421343.68
+Age  71 month  4 you have $1418528.14
+Age  71 month  5 you have $1415710.24
+Age  71 month  6 you have $1412890.00
+Age  71 month  7 you have $1410067.41
+Age  71 month  8 you have $1407242.47
+Age  71 month  9 you have $1404415.17
+Age  71 month 10 you have $1401585.52
+Age  71 month 11 you have $1398753.50
+Age  72 month  0 you have $1395919.13
+Age  72 month  1 you have $1393082.40
+Age  72 month  2 you have $1390243.30
+Age  72 month  3 you have $1387401.84
+Age  72 month  4 you have $1384558.00
+Age  72 month  5 you have $1381711.80
+Age  72 month  6 you have $1378863.23
+Age  72 month  7 you have $1376012.28
+Age  72 month  8 you have $1373158.96
+Age  72 month  9 you have $1370303.26
+Age  72 month 10 you have $1367445.18
+Age  72 month 11 you have $1364584.71
+Age  73 month  0 you have $1361721.87
+Age  73 month  1 you have $1358856.64
+Age  73 month  2 you have $1355989.02
+Age  73 month  3 you have $1353119.01
+Age  73 month  4 you have $1350246.61
+Age  73 month  5 you have $1347371.81
+Age  73 month  6 you have $1344494.62
+Age  73 month  7 you have $1341615.03
+Age  73 month  8 you have $1338733.05
+Age  73 month  9 you have $1335848.66
+Age  73 month 10 you have $1332961.87
+Age  73 month 11 you have $1330072.67
+Age  74 month  0 you have $1327181.06
+Age  74 month  1 you have $1324287.04
+Age  74 month  2 you have $1321390.62
+Age  74 month  3 you have $1318491.78
+Age  74 month  4 you have $1315590.52
+Age  74 month  5 you have $1312686.84
+Age  74 month  6 you have $1309780.75
+Age  74 month  7 you have $1306872.23
+Age  74 month  8 you have $1303961.29
+Age  74 month  9 you have $1301047.93
+Age  74 month 10 you have $1298132.14
+Age  74 month 11 you have $1295213.91
+Age  75 month  0 you have $1292293.26
+Age  75 month  1 you have $1289370.17
+Age  75 month  2 you have $1286444.64
+Age  75 month  3 you have $1283516.68
+Age  75 month  4 you have $1280586.28
+Age  75 month  5 you have $1277653.43
+Age  75 month  6 you have $1274718.14
+Age  75 month  7 you have $1271780.41
+Age  75 month  8 you have $1268840.23
+Age  75 month  9 you have $1265897.59
+Age  75 month 10 you have $1262952.51
+Age  75 month 11 you have $1260004.97
+Age  76 month  0 you have $1257054.97
+Age  76 month  1 you have $1254102.52
+Age  76 month  2 you have $1251147.60
+Age  76 month  3 you have $1248190.23
+Age  76 month  4 you have $1245230.39
+Age  76 month  5 you have $1242268.08
+Age  76 month  6 you have $1239303.30
+Age  76 month  7 you have $1236336.05
+Age  76 month  8 you have $1233366.33
+Age  76 month  9 you have $1230394.14
+Age  76 month 10 you have $1227419.47
+Age  76 month 11 you have $1224442.32
+Age  77 month  0 you have $1221462.69
+Age  77 month  1 you have $1218480.57
+Age  77 month  2 you have $1215495.97
+Age  77 month  3 you have $1212508.88
+Age  77 month  4 you have $1209519.31
+Age  77 month  5 you have $1206527.24
+Age  77 month  6 you have $1203532.68
+Age  77 month  7 you have $1200535.63
+Age  77 month  8 you have $1197536.07
+Age  77 month  9 you have $1194534.02
+Age  77 month 10 you have $1191529.46
+Age  77 month 11 you have $1188522.40
+Age  78 month  0 you have $1185512.84
+Age  78 month  1 you have $1182500.77
+Age  78 month  2 you have $1179486.18
+Age  78 month  3 you have $1176469.09
+Age  78 month  4 you have $1173449.48
+Age  78 month  5 you have $1170427.35
+Age  78 month  6 you have $1167402.71
+Age  78 month  7 you have $1164375.55
+Age  78 month  8 you have $1161345.86
+Age  78 month  9 you have $1158313.65
+Age  78 month 10 you have $1155278.91
+Age  78 month 11 you have $1152241.64
+Age  79 month  0 you have $1149201.84
+Age  79 month  1 you have $1146159.51
+Age  79 month  2 you have $1143114.64
+Age  79 month  3 you have $1140067.24
+Age  79 month  4 you have $1137017.30
+Age  79 month  5 you have $1133964.81
+Age  79 month  6 you have $1130909.78
+Age  79 month  7 you have $1127852.21
+Age  79 month  8 you have $1124792.08
+Age  79 month  9 you have $1121729.41
+Age  79 month 10 you have $1118664.18
+Age  79 month 11 you have $1115596.40
+Age  80 month  0 you have $1112526.07
+Age  80 month  1 you have $1109453.17
+Age  80 month  2 you have $1106377.72
+Age  80 month  3 you have $1103299.70
+Age  80 month  4 you have $1100219.11
+Age  80 month  5 you have $1097135.96
+Age  80 month  6 you have $1094050.24
+Age  80 month  7 you have $1090961.95
+Age  80 month  8 you have $1087871.09
+Age  80 month  9 you have $1084777.65
+Age  80 month 10 you have $1081681.63
+Age  80 month 11 you have $1078583.03
+Age  81 month  0 you have $1075481.85
+Age  81 month  1 you have $1072378.08
+Age  81 month  2 you have $1069271.73
+Age  81 month  3 you have $1066162.79
+Age  81 month  4 you have $1063051.26
+Age  81 month  5 you have $1059937.14
+Age  81 month  6 you have $1056820.42
+Age  81 month  7 you have $1053701.10
+Age  81 month  8 you have $1050579.19
+Age  81 month  9 you have $1047454.67
+Age  81 month 10 you have $1044327.55
+Age  81 month 11 you have $1041197.82
+Age  82 month  0 you have $1038065.48
+Age  82 month  1 you have $1034930.54
+Age  82 month  2 you have $1031792.98
+Age  82 month  3 you have $1028652.81
+Age  82 month  4 you have $1025510.02
+Age  82 month  5 you have $1022364.61
+Age  82 month  6 you have $1019216.58
+Age  82 month  7 you have $1016065.93
+Age  82 month  8 you have $1012912.65
+Age  82 month  9 you have $1009756.74
+Age  82 month 10 you have $1006598.21
+Age  82 month 11 you have $1003437.04
+Age  83 month  0 you have $1000273.24
+Age  83 month  1 you have $997106.80
+Age  83 month  2 you have $993937.72
+Age  83 month  3 you have $990766.00
+Age  83 month  4 you have $987591.64
+Age  83 month  5 you have $984414.63
+Age  83 month  6 you have $981234.98
+Age  83 month  7 you have $978052.68
+Age  83 month  8 you have $974867.72
+Age  83 month  9 you have $971680.11
+Age  83 month 10 you have $968489.84
+Age  83 month 11 you have $965296.92
+Age  84 month  0 you have $962101.33
+Age  84 month  1 you have $958903.08
+Age  84 month  2 you have $955702.17
+Age  84 month  3 you have $952498.59
+Age  84 month  4 you have $949292.34
+Age  84 month  5 you have $946083.41
+Age  84 month  6 you have $942871.82
+Age  84 month  7 you have $939657.54
+Age  84 month  8 you have $936440.59
+Age  84 month  9 you have $933220.96
+Age  84 month 10 you have $929998.64
+Age  84 month 11 you have $926773.64
+Age  85 month  0 you have $923545.95
+Age  85 month  1 you have $920315.57
+Age  85 month  2 you have $917082.50
+Age  85 month  3 you have $913846.74
+Age  85 month  4 you have $910608.28
+Age  85 month  5 you have $907367.12
+Age  85 month  6 you have $904123.26
+Age  85 month  7 you have $900876.69
+Age  85 month  8 you have $897627.42
+Age  85 month  9 you have $894375.45
+Age  85 month 10 you have $891120.76
+Age  85 month 11 you have $887863.36
+Age  86 month  0 you have $884603.25
+Age  86 month  1 you have $881340.42
+Age  86 month  2 you have $878074.87
+Age  86 month  3 you have $874806.59
+Age  86 month  4 you have $871535.60
+Age  86 month  5 you have $868261.88
+Age  86 month  6 you have $864985.43
+Age  86 month  7 you have $861706.25
+Age  86 month  8 you have $858424.34
+Age  86 month  9 you have $855139.69
+Age  86 month 10 you have $851852.31
+Age  86 month 11 you have $848562.19
+Age  87 month  0 you have $845269.32
+Age  87 month  1 you have $841973.71
+Age  87 month  2 you have $838675.36
+Age  87 month  3 you have $835374.26
+Age  87 month  4 you have $832070.40
+Age  87 month  5 you have $828763.79
+Age  87 month  6 you have $825454.43
+Age  87 month  7 you have $822142.31
+Age  87 month  8 you have $818827.43
+Age  87 month  9 you have $815509.78
+Age  87 month 10 you have $812189.37
+Age  87 month 11 you have $808866.20
+Age  88 month  0 you have $805540.25
+Age  88 month  1 you have $802211.54
+Age  88 month  2 you have $798880.05
+Age  88 month  3 you have $795545.78
+Age  88 month  4 you have $792208.73
+Age  88 month  5 you have $788868.91
+Age  88 month  6 you have $785526.30
+Age  88 month  7 you have $782180.90
+Age  88 month  8 you have $778832.72
+Age  88 month  9 you have $775481.75
+Age  88 month 10 you have $772127.98
+Age  88 month 11 you have $768771.42
+Age  89 month  0 you have $765412.07
+Age  89 month  1 you have $762049.91
+Age  89 month  2 you have $758684.95
+Age  89 month  3 you have $755317.19
+Age  89 month  4 you have $751946.62
+Age  89 month  5 you have $748573.24
+Age  89 month  6 you have $745197.05
+Age  89 month  7 you have $741818.05
+Age  89 month  8 you have $738436.23
+Age  89 month  9 you have $735051.60
+Age  89 month 10 you have $731664.14
+Age  89 month 11 you have $728273.86
+Age  90 month  0 you have $724880.75
+Age  90 month  1 you have $721484.82
+Age  90 month  2 you have $718086.06
+Age  90 month  3 you have $714684.46
+Age  90 month  4 you have $711280.03
+Age  90 month  5 you have $707872.77
+Age  90 month  6 you have $704462.66
+Age  90 month  7 you have $701049.71
+Age  90 month  8 you have $697633.92
+Age  90 month  9 you have $694215.28
+Age  90 month 10 you have $690793.80
+Age  90 month 11 you have $687369.46
+Age  91 month  0 you have $683942.27
+Age  91 month  1 you have $680512.22
+Age  91 month  2 you have $677079.31
+Age  91 month  3 you have $673643.54
+Age  91 month  4 you have $670204.91
+Age  91 month  5 you have $666763.42
+Age  91 month  6 you have $663319.05
+Age  91 month  7 you have $659871.82
+Age  91 month  8 you have $656421.71
+Age  91 month  9 you have $652968.73
+Age  91 month 10 you have $649512.87
+Age  91 month 11 you have $646054.13
+Age  92 month  0 you have $642592.51
+Age  92 month  1 you have $639128.00
+Age  92 month  2 you have $635660.61
+Age  92 month  3 you have $632190.33
+Age  92 month  4 you have $628717.15
+Age  92 month  5 you have $625241.08
+Age  92 month  6 you have $621762.12
+Age  92 month  7 you have $618280.25
+Age  92 month  8 you have $614795.49
+Age  92 month  9 you have $611307.82
+Age  92 month 10 you have $607817.24
+Age  92 month 11 you have $604323.75
+Age  93 month  0 you have $600827.36
+Age  93 month  1 you have $597328.05
+Age  93 month  2 you have $593825.82
+Age  93 month  3 you have $590320.68
+Age  93 month  4 you have $586812.61
+Age  93 month  5 you have $583301.62
+Age  93 month  6 you have $579787.70
+Age  93 month  7 you have $576270.86
+Age  93 month  8 you have $572751.09
+Age  93 month  9 you have $569228.38
+Age  93 month 10 you have $565702.74
+Age  93 month 11 you have $562174.16
+Age  94 month  0 you have $558642.63
+Age  94 month  1 you have $555108.17
+Age  94 month  2 you have $551570.76
+Age  94 month  3 you have $548030.40
+Age  94 month  4 you have $544487.09
+Age  94 month  5 you have $540940.83
+Age  94 month  6 you have $537391.62
+Age  94 month  7 you have $533839.44
+Age  94 month  8 you have $530284.31
+Age  94 month  9 you have $526726.21
+Age  94 month 10 you have $523165.15
+Age  94 month 11 you have $519601.12
+Age  95 month  0 you have $516034.12
+Age  95 month  1 you have $512464.15
+Age  95 month  2 you have $508891.21
+Age  95 month  3 you have $505315.28
+Age  95 month  4 you have $501736.38
+Age  95 month  5 you have $498154.49
+Age  95 month  6 you have $494569.62
+Age  95 month  7 you have $490981.76
+Age  95 month  8 you have $487390.91
+Age  95 month  9 you have $483797.07
+Age  95 month 10 you have $480200.24
+Age  95 month 11 you have $476600.40
+Age  96 month  0 you have $472997.57
+Age  96 month  1 you have $469391.73
+Age  96 month  2 you have $465782.89
+Age  96 month  3 you have $462171.05
+Age  96 month  4 you have $458556.19
+Age  96 month  5 you have $454938.32
+Age  96 month  6 you have $451317.43
+Age  96 month  7 you have $447693.53
+Age  96 month  8 you have $444066.61
+Age  96 month  9 you have $440436.67
+Age  96 month 10 you have $436803.70
+Age  96 month 11 you have $433167.70
+Age  97 month  0 you have $429528.67
+Age  97 month  1 you have $425886.61
+Age  97 month  2 you have $422241.52
+Age  97 month  3 you have $418593.39
+Age  97 month  4 you have $414942.21
+Age  97 month  5 you have $411288.00
+Age  97 month  6 you have $407630.74
+Age  97 month  7 you have $403970.43
+Age  97 month  8 you have $400307.07
+Age  97 month  9 you have $396640.66
+Age  97 month 10 you have $392971.20
+Age  97 month 11 you have $389298.67
+Age  98 month  0 you have $385623.09
+Age  98 month  1 you have $381944.44
+Age  98 month  2 you have $378262.73
+Age  98 month  3 you have $374577.95
+Age  98 month  4 you have $370890.10
+Age  98 month  5 you have $367199.17
+Age  98 month  6 you have $363505.17
+Age  98 month  7 you have $359808.09
+Age  98 month  8 you have $356107.93
+Age  98 month  9 you have $352404.69
+Age  98 month 10 you have $348698.36
+Age  98 month 11 you have $344988.94
+Age  99 month  0 you have $341276.43
+Age  99 month  1 you have $337560.83
+Age  99 month  2 you have $333842.13
+Age  99 month  3 you have $330120.33
+Age  99 month  4 you have $326395.43
+Age  99 month  5 you have $322667.43
+Age  99 month  6 you have $318936.32
+Age  99 month  7 you have $315202.10
+Age  99 month  8 you have $311464.77
+Age  99 month  9 you have $307724.32
+Age  99 month 10 you have $303980.76
+Age  99 month 11 you have $300234.07
+Age 100 month  0 you have $296484.27
 
 Overall Grade: F
