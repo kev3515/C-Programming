@@ -30,6 +30,7 @@ void print_data(int month, double balance)
   printf("Age %3d month %2d you have $%.2lf\n",year,mont,balance);
 }
 
+
 void retirement (int startAge,   //in months
 		 double initial, //initial savings in dollars
 		 retire_info working, //info about working
