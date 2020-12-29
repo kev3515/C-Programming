@@ -1,14 +1,14 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-struct _retire_info
+typedef struct _retire_info
 {
   int months;
   double contribution;
   double rate_of_return;
-};
+} retire_info;
 
-typedef struct _retire_info retire_info;
+//typedef struct _retire_info retire_info;
 
 double compute_capital(double balance, double rate, double contribution)
 {
