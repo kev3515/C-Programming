@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-struct _retire_info{
+struct _retire_info
+{
   int months;
   double contribution;
   double rate_of_return;
