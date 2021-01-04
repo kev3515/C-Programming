@@ -75,5 +75,6 @@ int main(){
 
   retirement(startAge,initial,working,retired);
 
+  return 0;
 }
 
