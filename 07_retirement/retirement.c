@@ -63,7 +63,7 @@ void retirement (int startAge,   //in months
 }
 
 
-int main(void){
+int main(){
 
   int startAge = 327;
 
